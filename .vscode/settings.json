@@ -17,6 +17,18 @@
     "idf.toolsPathWin": "C:\\Users\\18329\\.espressif",
     "idf.flashType": "UART",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ble.c": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstdlib": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "sstream": "cpp"
     }
 }

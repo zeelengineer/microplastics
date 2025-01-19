@@ -1,2 +1,2 @@
-idf_component_register(SRCS "actuator.cpp" "main.cpp" "ble.c"
+idf_component_register(SRCS "ble.c" "main.cpp" "actuator.cpp"
                     INCLUDE_DIRS ".")
